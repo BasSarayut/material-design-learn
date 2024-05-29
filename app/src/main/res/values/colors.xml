@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name = "my_light_primary">#FF6200EE</color>
+    <color name = "my_light_primary_variant">#FF3700B3</color>
+    <color name = "my_dark_primary">#FF3700B3</color>
+    <color name ="gray_strokeColor">#FF9E9E9E</color>
+    <color name = "bottom_navigation_item_color"> #FF616161</color>
+    <color name = "bottom_navigation_item_color_active"> #FF3700B3</color>
+    <color name = "bottom_navigation_item_color_inactive"> #FF616161</color>
+</resources>
